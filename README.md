@@ -48,40 +48,6 @@ press Enter to use list.txt, or type a custom file
 
 Merge?: type yes if you want all downloaded files merged into one
 
-## Script options:
-### 1. Select your preferred Zinc database version:
-* Choose between 15 & 20:
-```
-15
-```
-which refers to https://zinc15.docking.org database
-```
-20
-```
-which refers to https://zinc20.docking.org database
-### 2. Select your preferred Zinc file type to download:
-* Choose between SDF, SMI, CSV, XML or JSON:
-```
-sdf
-```
-which refers to the Structured Data File
-```
-smi
-```
-which refers to the SMILES File
-```
-csv
-```
-which refers to the Comma-separated values
-```
-xml or json
-```
-which refers to the other supported formats
-### 3. Select your prepared Zinc IDs list:
-* Default is list.txt(list.txt)
-* It's recommended to move the list file next to the main script to prevent further errors
-### 4. Choose if you want to merge all downloaded molecules to a final_dataset file at the end:
-* Choose between yes or no.
 
 ## Final outputs:
 The script creates two separate folders in its related folder at the end:
