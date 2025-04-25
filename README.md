@@ -1,4 +1,4 @@
-# Zinc Downloader
+# Zinc_Database_Ligands_Downloader
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\
 Zinc Database Downloader &amp; Merger
 
