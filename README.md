@@ -62,7 +62,5 @@ merged_dataset
 ```
 which contains one molecule created by merging molecules in the dataset folder
 
-[![Static Badge](https://img.shields.io/badge/Linkedin%20-%20shadmehr--ghorbani%20-%20blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shadmehr-ghorbani)\
-[![Static Badge](https://img.shields.io/badge/Researchgate%20-%20shadmehr--ghorbani%20-%20green?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Shadmehr-Ghorbani)
 
 
